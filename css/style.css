@@ -1,0 +1,77 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  background-image: url(https://images.wallpaperscraft.com/image/boards_wood_texture_118306_1280x720.jpg);
+  background-size: cover;
+  font-family: 'Gelasio', serif;
+}
+
+header{
+  margin-left: 25%;
+  font-size: 40px;
+  color: white;
+  width: 50%;
+  border-bottom: 4px solid #00ceb990;
+}
+main{
+  margin-top: 5px;
+  margin-left: 25%;
+  width: 50%;
+}
+.elementi_interfaccia{
+  margin-bottom: 20px;
+}
+#ci{
+  margin: 10px 0;
+  padding: 3px;
+}
+#pa{
+  background: #00ceb990;
+  border-radius: 3px;
+  color: white;
+  margin: 10px 0;
+  padding: 5px;
+  width: 100px;
+}
+#unread{
+  font-size: 30px;
+  font-weight: 800;
+  color: white;
+}
+.pcasella{
+  padding-left: 3px;
+}
+#tr{
+  background-color: yellow;
+
+}
+#section_1{
+  border-bottom: 4px solid #00ceb990;
+}
+.tm
+.cella_messaggio{
+  margin: 3px;
+  border: 3px solid black;
+  border-radius: 3px;
+  background-color: #D3D3D3;
+}
+#cmb{
+  background-color: white;
+}
+footer{
+  margin-left: 25%;
+  margin-top: 5px;
+  width: 50%;
+  border-top: 4px solid #00ceb990;
+  text-align: center;
+  font-size: 30px;
+  font-weight: 800;
+  color: white;
+}
+.small_div{
+  font-size: 20px;
+  font-family: 'Montez', cursive;
+}
