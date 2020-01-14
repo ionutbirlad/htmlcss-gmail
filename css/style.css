@@ -59,6 +59,17 @@ main{
   border-radius: 3px;
   background-color: #D3D3D3;
 }
+.tg::after{
+  content: "...";
+  opacity: 50%;
+}
+.tg::before{
+  content: "...";
+  opacity: 50%;
+}
+.tg{
+  opacity: 50%;
+}
 #cmb{
   background-color: white;
 }
