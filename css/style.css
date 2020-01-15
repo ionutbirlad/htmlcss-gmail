@@ -4,7 +4,7 @@
   box-sizing: border-box;
 }
 body{
-  background-image: url(https://images.wallpaperscraft.com/image/boards_wood_texture_118306_1280x720.jpg);
+  background-image: url("../img/wood.png");
   background-size: cover;
   font-family: 'Gelasio', serif;
 }
